@@ -1,0 +1,1 @@
+export default {primaryColor: '#203B3D'};
